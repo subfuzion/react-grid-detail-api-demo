@@ -12,3 +12,8 @@
   margin: 2vmin;
   border-radius: 5px;
 }
+
+a {
+  text-decoration: none;
+  color: white;
+}
